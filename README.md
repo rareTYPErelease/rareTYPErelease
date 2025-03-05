@@ -6,6 +6,7 @@
 <img src="https://camo.githubusercontent.com/130ffc354b6ee3c8c9e506276e598bf4e19ea7950df203dacf6aeee4fc543a50/68747470733a2f2f616e616c7974696373696e6469616d61672e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031382f31322f646576656c6f7065722d6472696262626c652e676966" width="600px" height="auto">
 
 # 💫 About Me:
+
  🎓 **BSc in IT Graduate** from Zetech University  <br>- 🖥️ Experienced in **web development, networking, and system administration**  <br>- 🌍 Enthusiastic about **open-source contributions & learning new technologies**  <br>- 📸 I enjoy capturing moments through **photography and videography**  <br>- 🛠️ Always exploring new tools to **build innovative solutions** 
 
 
@@ -26,3 +27,5 @@
 [![](https://visitcount.itsvg.in/api?id=rareTYPErelease&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=Hello,+I'm+Adrian+Mwangi!;Welcome+to+My+GitHub!;Coding+is+an+art...)](https://git.io/typing-svg)
