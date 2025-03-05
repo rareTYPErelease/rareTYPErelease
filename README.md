@@ -3,6 +3,8 @@
 </p>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=18&pause=1000&color=498AD4&width=435&lines=Tech+Enthusiast+%7C+Developer+%7C+Photographer" alt="Typing SVG" /></a>
 
+<img src="https://camo.githubusercontent.com/130ffc354b6ee3c8c9e506276e598bf4e19ea7950df203dacf6aeee4fc543a50/68747470733a2f2f616e616c7974696373696e6469616d61672e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031382f31322f646576656c6f7065722d6472696262626c652e676966" width="600px" height="auto">
+
 # 💫 About Me:
  🎓 **BSc in IT Graduate** from Zetech University  <br>- 🖥️ Experienced in **web development, networking, and system administration**  <br>- 🌍 Enthusiastic about **open-source contributions & learning new technologies**  <br>- 📸 I enjoy capturing moments through **photography and videography**  <br>- 🛠️ Always exploring new tools to **build innovative solutions** 
 
