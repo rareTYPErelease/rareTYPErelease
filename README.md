@@ -1,4 +1,6 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=25&pause=1000&color=498AD4&width=435&lines=Hello+I'm+Adrian+Mwangi;Welcome+to+my+Github+account+" alt="Typing SVG" /></a>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/rareTYPErelease/SVG/main/github-banner.svg" alt="Your Banner" width="100%">
+</p>
 # 💫 About Me:
  🎓 **BSc in IT Graduate** from Zetech University  <br>- 🖥️ Experienced in **web development, networking, and system administration**  <br>- 🌍 Enthusiastic about **open-source contributions & learning new technologies**  <br>- 📸 I enjoy capturing moments through **photography and videography**  <br>- 🛠️ Always exploring new tools to **build innovative solutions** 
 
